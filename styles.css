@@ -19,7 +19,7 @@
     }
   .profile{
       margin: 2rem;
-      padding: 8rem;
+      padding: 15VH;
       background-color: aliceblue;
       border-radius: 99rem;
       height: 50VH;
@@ -34,7 +34,7 @@
       background-color: aliceblue;
       border-radius: 99rem;
       margin: 2rem;
-        padding: 3rem;
+        padding: 8vh;
         height: 50vh;
   }
 

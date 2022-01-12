@@ -1,0 +1,43 @@
+
+
+@media only screen and (min-width: 800px) {
+    .navbar{
+        padding: 1rem 30rem 2rem 20rem;
+    }
+  }
+
+  body {
+    background-color: #2F3A8F;
+  }
+
+  .profile{
+      margin: 2rem;
+      padding: 3rem;
+      background-color: aliceblue;
+      border-radius: 99rem;
+  }
+
+  .profile-pic{
+      border-radius: 999rem;
+  }
+
+  .courses {
+      
+      background-color: aliceblue;
+      border-radius: 99rem;
+      margin: 2rem;
+        padding: 3rem;
+  }
+
+.courses h1{
+    text-align: center;
+}
+
+.projects {
+    padding-top: 5rem;
+}
+
+.card-text{
+    min-height: 10rem;
+    padding: 2rem 0rem;
+}

@@ -45,3 +45,8 @@
 .education{
     padding: 0 10rem;
 }
+.about {
+display: flex;
+flex-direction: column;
+justify-content: center;
+}

@@ -10,11 +10,19 @@
     background-color: #2F3A8F;
   }
 
+  p{
+      font-size: 1rem;
+  }
+
+    h1{
+        font-size: 2rem;
+    }
   .profile{
       margin: 2rem;
-      padding: 3rem;
+      padding: 8rem;
       background-color: aliceblue;
       border-radius: 99rem;
+      height: 50VH;
   }
 
   .profile-pic{
@@ -27,6 +35,7 @@
       border-radius: 99rem;
       margin: 2rem;
         padding: 3rem;
+        height: 50vh;
   }
 
 .courses h1{
